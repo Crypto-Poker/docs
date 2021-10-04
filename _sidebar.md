@@ -1,5 +1,5 @@
 * [Home](/)
-* [Introduction](introduction.md)
+* [Introduction](Introduction.md)
 * [Tutorial](Tutorial.md)
 * [Game](Game.md)
 * [NFT](NFT.md)
