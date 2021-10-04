@@ -1,4 +1,4 @@
-* [Home](/)
+* [Home](/ "CryptoPoker")
 * [Introduction](Introduction.md)
 * [Tutorial](Tutorial.md)
 * [Game](Game.md)
